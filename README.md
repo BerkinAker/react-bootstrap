@@ -25,7 +25,7 @@ See the below table on which version of React-Bootstrap you should be using in y
 
 ### Bootstrap 4 to Bootstrap 5
 
-If you would like to update React-Bootstrap within an existing project to use Bootstrap 5, please read our docs for **[migrating to React-Bootstrap V2][v5-migration]**.
+If you would like to update the React-Bootstrap within an existing project to use Bootstrap 5, please read our docs for **[migrating to React-Bootstrap V2][v5-migration]**.
 
 ### Bootstrap 3 to Bootstrap 4
 
